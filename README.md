@@ -155,7 +155,7 @@ If you have any feedback, please reach out to me at sidbarrack@gmail.com
 
 
 ## ✍️ Authors
-- [@subhendukundu](https://www.github.com/da7a90-backup)
+- [@da7a90-backup](https://www.github.com/da7a90-backup) forked from https://github.com/subhendukundu/worker-auth-providers
 
 ## 💼 License
 [MIT](https://github.com/da7a90-backup/worker-auth-providers/blob/main/LICENSE)
